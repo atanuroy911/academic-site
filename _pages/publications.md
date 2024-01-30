@@ -104,6 +104,16 @@ td {
          </details>
       </td>
    </tr>
+   <tr>
+      <td width="100%;" style="font-size:11pt;" align="justify" valign="top">
+         <strong>[7]</strong> <b>Ata Jahangir Moshayedi</b>, <b>Atanu Shuvam Roy</b>, <b>Amin Kolahdooz</b>, <b>Khan Amir Sohail</b>, <b>Eftekhari Ali</b>, "Design and Development of Foodiebot Robot: from Simulation to Design", <em>IEEE Access</em>, Volume: Early Access, Pages: Early Access, 2024.
+         [<a href="https://ieeexplore.ieee.org/document/10401885">Link</a>]
+         <details>
+            <summary><b><span style="color:blue">Abstract</span></b></summary>
+            <p>This investigation is centrally focused on the comprehensive evolution and enhancement of FOODIEBOT, an adaptive service automaton with a wide range of functionalities. Its capabilities encompass sophisticated image processing methods, seamlessly integrated via mobile applications (APP) and web interfaces, tailored specifically for intricate object manipulation in dining hall settings.During its developmental phase, the precise calibration of PID controller coefficients emerged as an essential requirement. The model underwent meticulous scrutiny through detailed simulations using MATLAB software. Following this phase, its operational efficiency navigating through circular, elliptical, spiral, and octagonal trajectories underwent rigorous examination, utilizing optimization methodologies like BAS, PSO, POA, and EO. The exposition emphasizes the diverse dispersion of optimized coefficients within each algorithmic framework. The pinnacle of this effort involved a comprehensive evaluation of pathway performance, amalgamating insights from each optimization paradigm. Go to paper to read more ... </p>
+         </details>
+      </td>
+   </tr>
 </table>
 
 <!-- ## Book Chapters
