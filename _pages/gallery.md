@@ -32,8 +32,8 @@ td {
 
 <h1 style="text-align:center"> Embedded Systems in Industrial Service Robots (ISR) </h1>
 
-
-<div class="row">
+<h2> Under Construction </h2>
+<!-- <div class="row">
   <div class="gifcol">
     <img src="/gifs/ray_tracing.gif"  style="width:300px;height:300px;">
     <b>Ray Tracing:</b> Ray tracing is a computer graphics technique that can produce images of an environment by tracing paths of rays. Ray tracing is known to produce realistic images and optical effects such as reflection, refraction, and shadows.
@@ -137,5 +137,5 @@ td {
       </td>
       </center></td>
    </tr>
-</table> 
+</table>  -->
 
